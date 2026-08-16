@@ -8,14 +8,24 @@ Currently focused on strengthening my skills in **Data Analytics, AI/ML, and sof
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-**Programming:** Python, SQL, JavaScript
-**Data & Analytics:** Pandas, NumPy, Matplotlib, Power BI, Excel
-**Machine Learning:** Scikit-learn, TensorFlow, Keras
-**Web Development:** HTML, CSS, React.js, Bootstrap
-**AI & GenAI:** RAG, LangChain, Generative AI
-**Tools:** Git, GitHub, Streamlit, Google Colab, Netlify
+**Programming & Databases**
+Python · SQL · JavaScript
+
+**Data Analytics**
+Excel · Power BI · Pandas · NumPy · Matplotlib
+
+**AI & Machine Learning**
+Scikit-learn · TensorFlow · Keras · RAG · LangChain · Generative AI
+
+**Web Development**
+HTML · CSS · React.js · Bootstrap
+
+**Tools & Platforms**
+Git · GitHub · Streamlit · Google Colab · Netlify
+
 **SAP Security:** User Administration, Role Administration, Authorization Concepts, PFCG, SU01, SU10,
 SU53, ST01, SM20, Security Audit Log
 
