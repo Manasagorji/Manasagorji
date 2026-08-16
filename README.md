@@ -1,56 +1,85 @@
 # Hi, I'm Manasa Gorji 👋
 
-### B.Tech Computer Science & Engineering Graduate | Aspiring Data Analyst | Software Developer
+### Computer Science & Engineering Graduate | Data Analytics | AI/ML | Software Development
 
-I’m a Computer Science graduate interested in **Data Analytics, AI/ML, and software development**. I enjoy building practical projects, working with data, and developing user-focused applications while continuously improving my technical skills.
+I’m a Computer Science & Engineering graduate with hands-on experience in **Python, SQL, data analytics, machine learning, and web development**. I build practical applications that combine data, automation, and AI to solve real-world problems.
 
-## 🚀 Technical Skills
+Currently focused on strengthening my skills in **Data Analytics, AI/ML, and software engineering** while actively seeking opportunities to contribute to technology-driven teams.
 
-**Languages:** Python, SQL, JavaScript
-**Data & Analytics:** Pandas, NumPy, Matplotlib, Power BI, Scikit-learn
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL, JavaScript
+**Data & Analytics:** Pandas, NumPy, Matplotlib, Power BI, Excel
+**Machine Learning:** Scikit-learn, TensorFlow, Keras
 **Web Development:** HTML, CSS, React.js, Bootstrap
-**Tools & Platforms:** Git, GitHub, Streamlit, Google Colab, Netlify
+**AI & GenAI:** RAG, LangChain, Generative AI
+**Tools:** Git, GitHub, Streamlit, Google Colab, Netlify
+**SAP Security:** User Administration, Role Administration, Authorization Concepts, PFCG, SU01, SU10,
+SU53, ST01, SM20, Security Audit Log
 
-## 💻 Featured Projects
+---
+
+## 🚀 Selected Projects
 
 ### AI Document Assistant — RAG
 
-AI-powered document assistant that uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from uploaded documents and generate grounded answers with source references.
+Built an AI-powered document assistant using **Retrieval-Augmented Generation** to retrieve relevant information from documents and generate grounded responses with source references.
 
-[View Project](https://github.com/Manasagorji/AI-Document-Assistant-RAG)
+**Tech:** Python · LangChain · RAG · Generative AI
+
+[View Repository →](https://github.com/Manasagorji/AI-Document-Assistant-RAG)
 
 ### Employee Salary Prediction
 
-Machine learning project that predicts employee salaries using Python and Scikit-learn, including data preprocessing, feature handling, model training, and evaluation.
+Developed a machine learning model to predict employee salaries through data preprocessing, feature engineering, model training, and evaluation.
 
-[View Project](https://github.com/Manasagorji/Employee-Salary-Prediction)
+**Tech:** Python · Pandas · NumPy · Scikit-learn
+
+[View Repository →](https://github.com/Manasagorji/Employee-Salary-Prediction)
 
 ### Bootstrap UI Project
 
-Responsive web interface developed using HTML, CSS, and Bootstrap with a focus on clean layout, reusable components, and responsive design.
+Developed a responsive web interface using reusable Bootstrap components with a focus on clean structure, responsive design, and user experience.
 
-[View Project](https://github.com/Manasagorji/bootstrap-ui-project)
+**Tech:** HTML · CSS · Bootstrap
+
+[View Repository →](https://github.com/Manasagorji/bootstrap-ui-project)
+
+---
 
 ## 💼 Internship Experience
 
 **IBM SkillBuild — AI/ML Intern**
-
-* Developed an Employee Salary Prediction model using Python, Pandas, NumPy, and Scikit-learn.
+Worked on an Employee Salary Prediction project using Python-based machine learning and data analysis techniques.
 
 **Infosys Springboard — Full Stack Python Intern**
+Developed a Crypto Risk Assessment Engine for analyzing risk factors across cryptocurrency assets.
 
-* Developed a Crypto Risk Assessment Engine for analyzing cryptocurrency risk factors.
+---
 
-## 🏆 Achievement
+## 🏆 Achievements
 
-* Gold Medalist at the State-Level Taekwondo Championship
+* 🥇 Gold Medalist — State-Level Taekwondo Championship
 * Represented at the National Taekwondo Championship
 * Organized technical and cultural events, coordinating planning, teamwork, and execution
 
-## 🔗 Connect With Me
+---
 
-**Portfolio:** https://manasa-gorji-portfolio.netlify.app/
+## 📈 What I'm Working Toward
 
-**LinkedIn:** https://www.linkedin.com/in/manasa-gorji-b105262a4/
+Building a career at the intersection of **data, AI, and software development**, with a focus on creating reliable, practical, and user-oriented solutions.
 
-**GitHub:** https://github.com/Manasagorji
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://manasa-gorji-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manasa-gorji-b105262a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manasagorji-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Manasagorji)
+
+---
+
+⭐ *Open to opportunities in Data Analytics, AI/ML, and Software Development.*
+qwq
